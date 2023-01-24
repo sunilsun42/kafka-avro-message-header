@@ -1,0 +1,9 @@
+{
+ "namespace": "com.sample.kafka.avro.header",
+ "type": "record",
+ "name": "Student",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "name", "type": "string"}
+ ]
+}
